@@ -11,6 +11,8 @@
 - Trained and validated the models on training and test dataset to evaluate accuracy. 
 
 Validation MAE when not specifying max_leaf_nodes: 29,653
+
 Validation MAE for best value of max_leaf_nodes: 27,283
+
 Validation MAE for Random Forest Model: 21,857
 
