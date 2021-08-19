@@ -24,3 +24,5 @@ Validation MAE for best value of max_leaf_nodes for Decision Tree: 27,283
 
 Validation MAE for Random Forest Model: 21,857
 
+Validation MAE for XGBoost model (n_estimators=1000, learning_rate=0.05): 16,688
+
