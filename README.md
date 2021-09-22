@@ -8,7 +8,7 @@
 - Developed a tool to predict house prices in Iowa to help investors, real-estate professionals and potential house owners.
 - Initially explored dataset to get an insight into their properties.
 - Optimised Decision Tree models (at multiple leaf nodes), Random Forest models and XGBoost models to get the best model and lowest Mean Absolute Error (MAE).
-- Trained and validated the models on training and test dataset, respectively, to evaluate their accuracy. 
+- Trained and validated the models on the train and test dataset, respectively, to evaluate their accuracy. 
 - This project also covers:
    - dealing with missing data (e.g. with SimpleImputer)
    - dealing with categorical variables (ordinal encoding and one-hot encoding)
